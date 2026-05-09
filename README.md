@@ -105,7 +105,7 @@ python3 -m pytest tests/ -v
 
 ## License
 
-MIT (本项目代码)。本项目包含的 vendored 第三方库各自保留原许可：
+MIT-0 (本项目代码)。本项目包含的 vendored 第三方库各自保留原许可：
 
 - `vendor/cnlunar/` —— [cnlunar](https://github.com/OPN48/cnLunar) v0.2.4，MIT，Copyright (c) 2025 OPN48 (cuba3)
 
